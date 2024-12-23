@@ -1,0 +1,27 @@
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  background-color: burlywood;
+  color: #fff;
+}
+.Header-Title {
+  text-align: right;
+  margin-right: 20px;
+  color: white;
+}
+
+.Header-Button {
+  background-color: burlywood;
+  border: burlywood;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 20px;
+  display: inline-block;
+  outline: none;
+}
+
+.Header-Button:hover {
+  color: gray;
+}
