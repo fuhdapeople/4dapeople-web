@@ -2,5 +2,10 @@ import React from "react";
 import "./WgoMain.css";
 
 export function WgoMain() {
-  return <div className="WgoMain">What's Going On?</div>;
+  return (
+    <div>
+      <div className="WgoMySection">What's Going On?</div>
+      <div className="WgoMyFriends">My Friends Posts</div>
+    </div>
+  );
 }

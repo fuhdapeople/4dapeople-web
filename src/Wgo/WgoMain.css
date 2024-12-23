@@ -1,3 +1,29 @@
+.WgoMySection {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 25px;
+  align-content: center;
+  padding: 30px;
+  width: 90%;
+  color: gray;
+  background-color: white;
+}
+
+.WgoMyFriends {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 25px;
+  align-content: center;
+  padding: 30px;
+  width: 90%;
+  color: gray;
+  background-color: white;
+}
+
 .WgoMain {
   color: gray;
   font-weight: bold;
